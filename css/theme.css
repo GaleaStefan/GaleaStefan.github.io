@@ -1,5 +1,5 @@
 .theme-color {
-	box-shadow: 2px 2px #d6d6d6;
+	box-shadow: 0px 2px #d6d6d6;
 	background-color: #28a8ed;
 }
 
@@ -10,4 +10,34 @@
 .theme-box {
 	box-shadow: 0px 2px #d6d6d6;
 	background-color: #ffffff;
+}
+
+.theme-bubble {
+	box-shadow: 0px 2px #d6d6d6;
+	background-color: #28a8ed;
+}
+
+.bubble-text {
+	font-family: Arial, sans-serif;
+	font-size: 1.5vw;
+	font-weight: 100;
+	text-align: center;
+	color: #ffffff;
+}
+
+.theme-bold {
+	letter-spacing: 1px;
+	font-weight: lighter;
+	font-family: Impact, fantasy;
+	font-size: 2.3vw;
+	font-stretch: ultra-expanded;
+	color: #28a8ed;
+}
+
+.under-line {
+	left: 1%;
+	width: 99%;
+	height: 2px;
+
+	background-color: #eeeeee;
 }
