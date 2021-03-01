@@ -1,0 +1,22 @@
+#info-box {
+	position: absolute;
+	top: 15%;
+	left: 25%;
+	
+	width: 50%;
+	height: 30%;
+	
+	min-width: 500px;
+	max-width: 500px;
+}
+
+#avatar {
+	position: absolute;
+	
+	margin: 0;
+	padding: 0;
+	top: 0;
+	left: 0;
+	
+	height: 100%;
+}

@@ -1,0 +1,13 @@
+.theme-color {
+	box-shadow: 2px 2px #d6d6d6;
+	background-color: #28a8ed;
+}
+
+.theme-bg {
+	background-color: #eeeeee;
+}
+
+.theme-box {
+	box-shadow: 0px 2px #d6d6d6;
+	background-color: #ffffff;
+}
